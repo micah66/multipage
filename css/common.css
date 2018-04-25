@@ -1,0 +1,21 @@
+li {
+  list-style: none;
+  display: inline-block;
+  padding: 10px;
+}
+
+.content {
+  height: 200px;
+  text-align: center;
+}
+
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+body {
+  font-family: "Helvetica Neue";
+  font-size: 14px;
+  margin: 0;
+}
